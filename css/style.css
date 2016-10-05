@@ -3,7 +3,8 @@ body{
 	height: 100vh;
 	background: url("../images/photo-bg-1920.jpg") no-repeat center;
 	color: #fff
-	display:flex;
+
+	display: flex;
 	justify-content: center;
 	align-items: center;
 }
