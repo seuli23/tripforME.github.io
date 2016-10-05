@@ -6,4 +6,4 @@ trip
 ### you can travle for only YOU!
 - [ ] `search the place`
 - [ ] `schedule for that`
-- [ ] `and then go!`
+- [x] `and then go!`
